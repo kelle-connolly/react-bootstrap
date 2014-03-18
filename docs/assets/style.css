@@ -49,6 +49,10 @@ body {
   color: #cc7a6f;
   border-left: 1px solid #cc7a6f;
 }
+.bs-docs-sidebar .nav>.active>a, .bs-docs-sidebar .nav>.active:hover>a, .bs-docs-sidebar .nav>.active:focus>a {
+  color: #cc7a6f;
+  border-left: 2px solid #cc7a6f;
+}
 
 .back-to-top:hover {
   color: #cc7a6f;
